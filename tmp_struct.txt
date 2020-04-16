@@ -1,0 +1,6 @@
+>miRmR_271
+GGGAGAGGGUUUAAUACUUACGAAAGUAUUUAUUGGAUCCGCAAGG
+......((((((((((..(((....)))..))))))))))...... (-12.40)
+......((((((((((..(((....)))..))))))))))...... [-12.43]
+......((((((((((..(((....)))..))))))))))...... {-12.40 d=0.17}
+ frequency of mfe structure in ensemble 0.950741; ensemble diversity 0.33  
